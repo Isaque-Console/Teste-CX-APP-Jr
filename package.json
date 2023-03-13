@@ -1,0 +1,17 @@
+{
+  "name": "teste-cx-app-jr",
+  "version": "1.0.0",
+  "description": "`Olá, agradecemos seu interesse em fazer parte da ETEG!`",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt-cli": "^1.4.3",
+    "zendesk_app_framework_sdk": "^2.0.11"
+  }
+}
